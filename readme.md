@@ -7,7 +7,7 @@
  - Get your discord token (or u can search on youtube for tutorial to get token)
  - Open `Secrets` on left the replit
  - Fill The `key` with `TOKEN`
- - Fill the `value` with ur token
+ - Fill the `value` with ur discord token
  - Run the code
  - Enjoy!
 
