@@ -9,6 +9,17 @@
  - Fill The `key` with `TOKEN`
  - Fill the `value` with ur discord token
  - Run the code
+ - Go To [uptimerobot.com](https://uptimerobot.com) and create account
+ - Press `Add New Monitor`
+ - Select Monitor Type To `HTTP(s)`
+ - Fill The Name As You Like
+ - Go Back To Replit
+ - Copy The Link The One On The Top Right
+ - After Copy Go Back To Uptimerobot
+ - Fill The Url With Ur Replit Link
+ - Press Create Monitor
+ - Then Press Again
+ - And Done
  - Enjoy!
 
 ## Discalimer
