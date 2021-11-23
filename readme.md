@@ -39,3 +39,6 @@ Option 2: If you don't have an account, try creating one [here](https://uptimero
 ## Social Media
  - [Youtube](https://www.youtube.com/channel/UCPKOw1Rlxz8W8IVbOREk6HQ)
  - [Discord](https://dsc.gg/mjgaming1532)
+
+## Credits
+ - This Code All By [MJGaming1532](https://github.com/MJGaming1532) Dont Forget Check Him [Repositories](https://github.com/MJGaming1532/discord-online-selfbot-247-python)
