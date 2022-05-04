@@ -3,7 +3,7 @@
 ### Setup
  - Go to [replit.com](https://replit.com) and create account
  - Click `Create` and then `Import From Github`
- - Paste the link `https://github.com/MJGaming1532/discord-online-selfbot-247`
+ - Paste the link `https://github.com/MJ1532/discord-online-selfbot-247`
  - Get your discord token (or u can search on youtube for tutorial to get token)
  - Open `Secrets` on left the replit
  - Fill The `key` with `TOKEN`
